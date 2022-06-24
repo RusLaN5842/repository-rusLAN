@@ -18,6 +18,10 @@ https://git-scm.com/downloads
 git config --global user.name "Ваше имя"
 git config --global user.mail "Ваша почта"
 ```
+#### 4. Создание репозитория.
+Получить репозиторий можно двумя способами.
+```
+git-status
 
 * Добавиь элемент 1
 
